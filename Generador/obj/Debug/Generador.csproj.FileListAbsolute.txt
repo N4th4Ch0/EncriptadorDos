@@ -1,0 +1,10 @@
+D:\aaaaa\Esto\Generador\bin\Debug\Generador.dll
+D:\aaaaa\Esto\Generador\bin\Debug\Generador.pdb
+D:\aaaaa\Esto\Generador\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\aaaaa\Esto\Generador\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\aaaaa\Esto\Generador\bin\Debug\Microsoft.Analytics.Types.dll
+D:\aaaaa\Esto\Generador\obj\Debug\Generador.csproj.AssemblyReference.cache
+D:\aaaaa\Esto\Generador\obj\Debug\Generador.csproj.CoreCompileInputs.cache
+D:\aaaaa\Esto\Generador\obj\Debug\Generador.csproj.CopyComplete
+D:\aaaaa\Esto\Generador\obj\Debug\Generador.dll
+D:\aaaaa\Esto\Generador\obj\Debug\Generador.pdb

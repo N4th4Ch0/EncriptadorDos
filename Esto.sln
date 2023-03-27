@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Esto", "Esto\Esto.vbproj", "{360EE490-F1C4-4C3A-AA77-E928D0925C1B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Encriptador", "..\..\Encriptador de palabras\Encriptador de palabras\Encriptador\Encriptador.vbproj", "{CD2B452E-F53D-4196-BC58-667A7B01D8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360EE490-F1C4-4C3A-AA77-E928D0925C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360EE490-F1C4-4C3A-AA77-E928D0925C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360EE490-F1C4-4C3A-AA77-E928D0925C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360EE490-F1C4-4C3A-AA77-E928D0925C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2B452E-F53D-4196-BC58-667A7B01D8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2B452E-F53D-4196-BC58-667A7B01D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2B452E-F53D-4196-BC58-667A7B01D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2B452E-F53D-4196-BC58-667A7B01D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B895BE4-6074-432F-B98B-25D648B93A10}
+	EndGlobalSection
+EndGlobal

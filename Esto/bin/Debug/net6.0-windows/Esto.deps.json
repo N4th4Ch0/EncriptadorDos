@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Esto/1.0.0": {
+        "dependencies": {
+          "Encriptador": "1.0.0"
+        },
+        "runtime": {
+          "Esto.dll": {}
+        }
+      },
+      "Encriptador/1.0.0": {
+        "runtime": {
+          "Encriptador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encriptador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
